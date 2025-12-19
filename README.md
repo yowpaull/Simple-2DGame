@@ -56,5 +56,12 @@ Playable builds (EXE/WebGL) are not included.
 
 ---
 
+## ▶️ Play the Game
+
+Download the latest playable build here:  
+👉 https://github.com/yowpaull/Simple-2DGame/releases
+
+---
+
 ## 📜 License
 This project is for educational and personal use.
