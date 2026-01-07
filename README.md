@@ -44,8 +44,7 @@ Generated folders such as `Library`, `Temp`, and `Build` are excluded using `.gi
 ---
 
 ## 📌 Notes
-This repository contains **source files only**.  
-Playable builds (EXE/WebGL) are not included.
+This repository contains **source and exe files**.
 
 ---
 
