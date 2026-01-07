@@ -33,8 +33,6 @@ Generated folders such as `Library`, `Temp`, and `Build` are excluded using `.gi
 - Basic game mechanics
 - Custom assets and scenes
 
-*(Add or remove features as your game grows)*
-
 ---
 
 ## 🚀 Future Improvements
